@@ -1,6 +1,6 @@
 # **Hello, I'm** Mayopumpum 
 
-<img align="right" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFIM6yoE-LmBAk0Jkob6GeZPTCjfm3aU6TJg&usqp=CAU" width="300" height="150" />
+<img align="right" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFIM6yoE-LmBAk0Jkob6GeZPTCjfm3aU6TJg&usqp=CAU" width="450" height="500" />
 
 ## **I'm learning python for a career change...**
 
@@ -14,7 +14,7 @@
 
 * <img align="left" alt="Rock" width="26px" src="https://cdn-icons.flaticon.com/png/128/1682/premium/1682643.png?token=exp=1647693342~hmac=c7bdbdf3351a1ec56676075c9a7dd7aa" /> **Rock** 
 
-### **and coding** <img align="left" alt="Bike" width="26px" src="https://cdn-icons-png.flaticon.com/128/180/180867.png" />
+<img align="left" alt="Bike" width="26px" src="https://cdn-icons-png.flaticon.com/128/180/180867.png" /> **and coding** 
 
 <br />
 
