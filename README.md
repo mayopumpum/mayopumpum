@@ -4,7 +4,7 @@
 
 ## **I'm learning python for a career change...**
 
-### * I like
+### I like
 
 <img align="right" alt="GIF" src="https://cdn.pixabay.com/photo/2016/11/29/05/29/buildings-1867550_960_720.jpg" width="550" height="350" />
 
