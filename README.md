@@ -14,8 +14,8 @@ I like:
 <br />
 
 ### How to contact me:
-[<img align="left" alt="Instagram" width="26px" src="https://cdn-icons.flaticon.com/png/128/3955/premium/3955024.png?token=exp=1647693057~hmac=386c361a29be0314140e1a6f0a28c989" />][instagram]
+[<img align="left" alt="Instagram" width="26px" src="https://cdn-icons.flaticon.com/png/128/3955/premium/3955024.png?token=exp=1647694358~hmac=ff64af2823b8a7000545c5e4c715b14f" />][instagram]
 [<img align="left" alt="Telegram" width="26px" src="https://cdn-icons-png.flaticon.com/128/2111/2111644.png" />][telegram]
 
-[instagram]: https://www.instagram.com/mayopumpum
-[telegram]: https://t.me/Swaggerz
+[instagram]:https://www.instagram.com/mayopumpum
+[telegram]:https://t.me/Swaggerz
