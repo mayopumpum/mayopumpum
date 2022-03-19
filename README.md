@@ -4,16 +4,16 @@
 
 I like
 
-<img align="left" alt="Bike" width="26px" src="https://cdn-icons-png.flaticon.com/128/3198/3198336.png" /> Bike
+<img align="left" alt="Bike" width="26px" src="https://cdn-icons-png.flaticon.com/128/3198/3198336.png" /> **Bike**
 
-<img align="left" alt="Hike" width="26px" src="https://cdn-icons-png.flaticon.com/128/1706/1706709.png" /> Hike
+<img align="left" alt="Hike" width="26px" src="https://cdn-icons-png.flaticon.com/128/1706/1706709.png" /> **Hike**
 
-<img align="left" alt="Dogs" width="26px" src="https://cdn-icons-png.flaticon.com/128/1998/1998627.png" /> Dogs
+<img align="left" alt="Dogs" width="26px" src="https://cdn-icons-png.flaticon.com/128/1998/1998627.png" /> **Dogs**
 
-<img align="left" alt="Rock" width="26px" src="https://cdn-icons.flaticon.com/png/128/1682/premium/1682643.png?token=exp=1647693342~hmac=c7bdbdf3351a1ec56676075c9a7dd7aa" /> Rock
+<img align="left" alt="Rock" width="26px" src="https://cdn-icons.flaticon.com/png/128/1682/premium/1682643.png?token=exp=1647693342~hmac=c7bdbdf3351a1ec56676075c9a7dd7aa" /> **Rock**
 
 
-*and coding*
+**_and coding_**
 
 <br />
 <br />
