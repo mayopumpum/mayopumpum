@@ -1,10 +1,12 @@
 # **Hello, I'm** Mayopumpum 
 
-<img align="right" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFIM6yoE-LmBAk0Jkob6GeZPTCjfm3aU6TJg&usqp=CAU" width="450" height="500" />
+
 
 ## **I'm learning python for a career change...**
 
 ### I like
+
+<img align="right" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFIM6yoE-LmBAk0Jkob6GeZPTCjfm3aU6TJg&usqp=CAU" width="450" height="250" />
 
 * <img align="left" alt="Bike" width="26px" src="https://cdn-icons-png.flaticon.com/128/3198/3198336.png" /> **Bike**
 
