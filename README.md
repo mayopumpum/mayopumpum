@@ -1,10 +1,10 @@
-## **Hello, I'm** Mayopumpum 
+# **Hello, I'm** Mayopumpum 
 
-### **I'm learning python for a career change...**
+## **I'm learning python for a career change...**
 
-I like
+### I like
 
-<br />
+
 
 * <img align="left" alt="Bike" width="26px" src="https://cdn-icons-png.flaticon.com/128/3198/3198336.png" /> **Bike**
 
@@ -14,9 +14,7 @@ I like
 
 * <img align="left" alt="Rock" width="26px" src="https://cdn-icons.flaticon.com/png/128/1682/premium/1682643.png?token=exp=1647693342~hmac=c7bdbdf3351a1ec56676075c9a7dd7aa" /> **Rock** 
 
-<br />
-
-#### **and coding**
+### **and coding**
 
 <br />
 <br />
