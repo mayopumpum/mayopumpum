@@ -6,7 +6,7 @@
 
 ### I like
 
-<img align="right" alt="GIF" src="https://cdn.pixabay.com/photo/2016/11/29/05/29/buildings-1867550_960_720.jpg" width="550" height="250" />
+<img align="right" alt="GIF" src="https://weblinks.ru/wp-content/uploads/2021/12/1_0nqykqs0a8tjjqbmfnjp8q.jpg" width="550" height="250" />
 
 * <img align="left" alt="Bike" width="20px" src="https://cdn-icons-png.flaticon.com/128/3198/3198336.png" /> **Bike**
 * <img align="left" alt="Hike" width="20px" src="https://cdn-icons-png.flaticon.com/128/1706/1706709.png" /> **Hike**
@@ -18,7 +18,7 @@
 
 
 ### How to contact me:
-[<img align="left" alt="Instagram" width="26px" src="https://cdn-icons.flaticon.com/png/128/3955/premium/3955024.png?token=exp=1661177206~hmac=549cf4910c9a71215dc11d9e17ada6cd" />][instagram]
+[<img align="left" alt="Instagram" width="26px" src="https://img.freepik.com/free-vector/instagram-vector-social-media-icon-7-june-2021-bangkok-thailand_53876-136728.jpg?w=2000" />][instagram]
 [<img align="left" alt="Telegram" width="26px" src="https://cdn-icons-png.flaticon.com/128/2111/2111644.png" />][telegram]
 
 [instagram]:https://www.instagram.com/mayopumpum
