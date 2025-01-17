@@ -2,7 +2,7 @@
 
 My name is Anton and I'm a DevOps engineer. living in Novosibirsk
 
-- 🔭 I’m currently working on information security
+- 🔭 I’m currently working DevOps/QA in IoT
 - 🌱 I’m currently studying at [21School](https://21-school.ru/) (grapefru)
 
 ## :hammer_and_wrench: Skills
