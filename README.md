@@ -6,7 +6,7 @@ My name is Anton and I'm a DevOps engineer. living in Novosibirsk
 - 🌱 I’m currently studying at [21School](https://21-school.ru/) (grapefru)
 
 ## :hammer_and_wrench: Skills
--  C/C++, Bash
+-  C/C++, Python, Bash
 -  Docker, Kubernetes
 -  SQL, PostgreSQL, Git, Ansible
 -  Zabbix, Prometheus, Grafana
