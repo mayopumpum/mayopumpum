@@ -9,7 +9,8 @@ My name is Anton and I'm a DevOps engineer. living in Novosibirsk
 -  C/C++, Bash
 -  Docker, Kubernetes
 -  SQL, PostgreSQL, Git, Ansible
--  Zabbix
+-  Zabbix, Prometheus, Grafana
+-  ELK
 
 ### How to contact me:
 [<img align="left" alt="Instagram" width="26px" src="https://img.freepik.com/free-vector/instagram-vector-social-media-icon-7-june-2021-bangkok-thailand_53876-136728.jpg?w=2000" />][instagram]
