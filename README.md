@@ -7,8 +7,8 @@ My name is Anton and I'm a DevOps engineer. living in Novosibirsk
 
 ## :hammer_and_wrench: Skills
 -  C/C++, Python, Bash
--  Docker, Kubernetes
--  SQL, PostgreSQL, Git, Ansible
+-  Ansible, Docker, Kubernetes
+-  SQL, Git
 -  Zabbix, Prometheus, Grafana
 -  ELK
 
